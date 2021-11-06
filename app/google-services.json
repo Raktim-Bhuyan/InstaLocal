@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600149983814",
+    "project_id": "instalocal-68168",
+    "storage_bucket": "instalocal-68168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600149983814:android:45e62587dc58dbec654047",
+        "android_client_info": {
+          "package_name": "rb.example.instalocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600149983814-h6aqtvl0m2f14hqc7bqagkd9n41e123m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsFiXsAHVv2hX3eCc6K_4D44qHQBI7VcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600149983814-h6aqtvl0m2f14hqc7bqagkd9n41e123m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
